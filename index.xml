@@ -22,5 +22,25 @@ Open Source가 널리 퍼뜨려지고, Github이 성장하면서 Static site gen
 앞으로 얼마나 클지는 잘 모르겠지만 이 개념을 잘 활용하면 개도국에도 꽤나 요긴하게 활용될 수 있을 것 같다. 물론 아직까지는 좀 접근 장벽이 높아보이긴 하다.</description>
     </item>
     
+    <item>
+      <title>르완다 1년이 남긴 IT 봉사 흔적들 part 1</title>
+      <link>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4_1%EB%85%84%EC%9D%B4_%EB%82%A8%EA%B8%B4_it_%EB%B4%89%EC%82%AC_%ED%9D%94%EC%A0%81%EB%93%A4_part_1/</link>
+      <pubDate>Wed, 02 Nov 2011 06:09:37 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4_1%EB%85%84%EC%9D%B4_%EB%82%A8%EA%B8%B4_it_%EB%B4%89%EC%82%AC_%ED%9D%94%EC%A0%81%EB%93%A4_part_1/</guid>
+      <description>르완다에 온지 벌써 1년 하고도 5개월이 지났다. 실로 꽤 긴 시간이 지났음에도 불구하고, 동아프리카 르완다 특유의 변함없는 춥지도, 덥지도 않은 이 무미건조한 날씨는 흘러가는 시간을 무색하게 만든다. 이렇게 오랜 기간동안 있으면서, 과거를 회상하기는 많이 했지만, 내가 이제껏 르완다에서 해왔던 일들에 대해 한번도 제대로 정리를 해본적이 없는거 같다. (코이카 현지평가회의를 했음에도 불구하고 - 코이카 봉사단원들은 현지평가회의때 이제껏 활동했던 봉사사례들을 공유하는 시간을 갖는다. 사실 그때는 왜 그랬는지 모르겠지만 자료 준비가 그렇게 귀찮을 수가 없었다.</description>
+    </item>
+    
+    <item>
+      <title>르완다에도 IT 바람은 분다</title>
+      <link>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4%EC%97%90%EB%8F%84it%EB%B0%94%EB%9E%8C%EC%9D%80%EB%B6%84%EB%8B%A4/</link>
+      <pubDate>Tue, 01 Nov 2011 11:40:18 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4%EC%97%90%EB%8F%84it%EB%B0%94%EB%9E%8C%EC%9D%80%EB%B6%84%EB%8B%A4/</guid>
+      <description>6 년전 작성했던 글 또 한번의 서버 마이그레이션 한국 -&amp;gt; 르완다 -&amp;gt; 미국 -&amp;gt; Github 과거에 작성한 글을 되돌아 보며 세상이 참 빨리 움직인다는 것을 느낀다.
+르완다에서 작성하는 글은 르완다에 저장해 사용하는 것이 의미 있다고 생각해 블로그 서버를 한국에서 르완다로 옮겼습니다. 르완다에서의 정부 지원과제를 돕던 중에 르완다 정부서버를 사용할 기회를 얻어 이렇게 서버 마이그레이션 작업을 하게 되었습니다. 아마도 한국에서 접속한다 해도 그리 느리지 않을꺼라고 생각합니다.
+우선 포스팅에 앞서, 한가지 배경 지식부터 소개하자면,</description>
+    </item>
+    
   </channel>
 </rss>
