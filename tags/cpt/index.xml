@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cpt on jbear&#39;s blog</title>
+    <link>http://blog.jbear.co/tags/cpt/</link>
+    <description>Recent content in Cpt on jbear&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Mon, 24 Mar 2014 23:49:37 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.jbear.co/tags/cpt/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cross Platform Tools</title>
+      <link>http://blog.jbear.co/post/crossplatformtools/</link>
+      <pubDate>Mon, 24 Mar 2014 23:49:37 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/crossplatformtools/</guid>
+      <description>음.. 작년 이맘때만 하더라도 CPTs에 미쳐있었는데.. 지금은 오히려 부정하는 기술 중 하나다. 아래는 작년에 입사 에세이로 썼었던 글. 다시 읽어보면서 나도 모르게 진행되는 생각의 변화가 두렵기만 하다.
+요즈음 다양한 모바일 OS들이 쏟아져 나오면서 여러 운영체제 간의 호환성을 갖춘 소프트웨어 개발이 가능한 크로스 플랫폼 도구 (CPTs; Cross Platform Tools) 가 관심을 받고 있습니다. PC 시대까지만 하더라도 CPTs에 대한 수요는 지금처럼 크지 않았습니다. 왜냐하면, 사용자 대부분이 PC운영체제로 윈도우즈를 사용했기 때문입니다. 당시엔 개발자들이 윈도우즈에만 집중하면 되던 시절이었습니다.</description>
+    </item>
+    
+  </channel>
+</rss>

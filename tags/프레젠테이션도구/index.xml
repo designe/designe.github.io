@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>프레젠테이션도구 on jbear&#39;s blog</title>
+    <link>http://blog.jbear.co/tags/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EB%8F%84%EA%B5%AC/</link>
+    <description>Recent content in 프레젠테이션도구 on jbear&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 21 Apr 2012 23:53:19 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.jbear.co/tags/%ED%94%84%EB%A0%88%EC%A0%A0%ED%85%8C%EC%9D%B4%EC%85%98%EB%8F%84%EA%B5%AC/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>재미있는 프레젠테이션 도구 Prezi</title>
+      <link>http://blog.jbear.co/post/prezi/</link>
+      <pubDate>Sat, 21 Apr 2012 23:53:19 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/prezi/</guid>
+      <description>시대가 시대인만큼 프레젠테이션이 중요한 시대가 왔다. 세계 대다수의 수많은 사람들은 윈텔 기반의 MS Office 파워포인트를 활용하여 프레젠테이션을 할 것이다. 뭐 지금은 PC 생태계에 애플의 맥이 확장해나가면서 Keynote(키노트)라는 프레젠테이션 툴도 많이 쓰는 추세이고, 좀 더 전문적인 사람들은 이런 툴에 의존하지 않는다. 자신에게 가장 잘 맞는 그래픽 툴로 프레젠테이션 템플릿을 만들어 사용한다. 이렇든 저렇든 어떻든간에 프레젠테이션 자료들은 화면에 맞추어진 몇장의 슬라이드로 이루어진다. 하지만 이런 기존의 슬라이드 to 슬라이드 방식의 프레젠테이션 방식을 깨드린 재미있는 웹 기반의 도구가 있다.</description>
+    </item>
+    
+  </channel>
+</rss>

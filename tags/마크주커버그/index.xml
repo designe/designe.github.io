@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>마크주커버그 on jbear&#39;s blog</title>
+    <link>http://blog.jbear.co/tags/%EB%A7%88%ED%81%AC%EC%A3%BC%EC%BB%A4%EB%B2%84%EA%B7%B8/</link>
+    <description>Recent content in 마크주커버그 on jbear&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Fri, 21 Dec 2012 23:52:44 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.jbear.co/tags/%EB%A7%88%ED%81%AC%EC%A3%BC%EC%BB%A4%EB%B2%84%EA%B7%B8/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>마크주커버그 패션</title>
+      <link>http://blog.jbear.co/post/%EB%A7%88%ED%81%AC%EC%A3%BC%EC%BB%A4%EB%B2%84%EA%B7%B8%ED%8C%A8%EC%85%98/</link>
+      <pubDate>Fri, 21 Dec 2012 23:52:44 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/%EB%A7%88%ED%81%AC%EC%A3%BC%EC%BB%A4%EB%B2%84%EA%B7%B8%ED%8C%A8%EC%85%98/</guid>
+      <description>프레젠테이션 한번에 기업이나 제품의 이미지가 결정되어 버리기도 하고, 심지어는 한 사람의 운명이 뒤바뀌기도 한다. 물론 어떤 시대라 한들, 프레젠테이션이 중요하지 않았던 적은 없었겠지만서도 지금이 유독 달라보이는건 전세계를 잇는 네트워크로 인한 미디어의 폭발이 주된 이유 중 하나일 것이다. 소위 대기업이라 불리는 몇몇 회사들의 프레젠테이션 한번은 전세계를 뒤흔든다. 애플의 아이폰이 그랬고, 삼성 또한 그랬다. 이렇게 프레젠테이션하면 우선 떠오르는 것이 단연 IT 기기의 신제품 발표일 정도로 IT 필드에서는 프레젠테이션을 뗄레야 뗄 수 없는 관계에 놓여있는데, 여기서 참 재미있는 사실을 발견할 수 있다.</description>
+    </item>
+    
+    <item>
+      <title>Facebook이 선택한 길 IPO</title>
+      <link>http://blog.jbear.co/post/facebookipo/</link>
+      <pubDate>Sat, 11 Feb 2012 23:53:30 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/facebookipo/</guid>
+      <description>2012년 2월 1일, 페이스북 8주년이 되기 3일 전 이날은 페이스북이 IPO(Initial Public Offering) - 기업공개 신청(S-1 문서[유가증권신청서) 제출)으로 인해 세계의 관심을 집중적으로 받은 날이다. 기업공개가 무엇이길래 이리도 관심이 높은것일까? 포스트의 마지막에 바로 주변을 떠들썩하게 만든, 페이스북의 내부 정보가 공개된 S-1 문서를 첨부해두었다. 무려 198페이지에 달한다.
+이 문서는 요약하면 대략 이렇다.
+작년 말의 페이스북 DAU(Daily Active Users) 는 4억명을 넘고, MAU(Monthly active users)는 8억명이 넘는다. Like와 Comment는 하루에 27억에 달하고, 사진은 하루에 2억 5천만번 업로드된다.</description>
+    </item>
+    
+  </channel>
+</rss>

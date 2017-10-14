@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>삶 on jbear&#39;s blog</title>
+    <link>http://blog.jbear.co/tags/%EC%82%B6/</link>
+    <description>Recent content in 삶 on jbear&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko</language>
+    <lastBuildDate>Sat, 22 Feb 2014 23:49:57 +0900</lastBuildDate>
+    
+	<atom:link href="http://blog.jbear.co/tags/%EC%82%B6/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>삶의활기</title>
+      <link>http://blog.jbear.co/post/%EC%82%B6%EC%9D%98%ED%99%9C%EA%B8%B0/</link>
+      <pubDate>Sat, 22 Feb 2014 23:49:57 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/post/%EC%82%B6%EC%9D%98%ED%99%9C%EA%B8%B0/</guid>
+      <description>일기를 쓰고 싶었는데, 쓸 공간을 적절히 찾지 못해 오랫동안 방치해오던 이 블로그를 재활용하려한다. 요즘 마음이 너무 답답하다. 뭔가 목적을 찾지 못해 방황해서 힘들다 어느 정도 목표가 잡혀가고 즐거움을 찾아가려던 차에 다시금 큰 산을 만난 것 같다. 이 답답한 마음을 어떻게 해소할 수 있을까-
+현재 내가 피할 수 없는 일에 즐길 수 있는 마음을 가졌으면 좋겠다. 조금만 다르게 생각해도 좋게 생각할 수 있는데, 그저 불평 불만만 가득. 매우 위험한 상태인 것 같다.</description>
+    </item>
+    
+  </channel>
+</rss>
