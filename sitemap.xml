@@ -3,11 +3,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4part2/</loc>
-    <lastmod>2017-11-07T23:54:32+09:00</lastmod>
-  </url>
-  
-  <url>
     <loc>http://blog.jbear.co/post/newstart/</loc>
     <lastmod>2017-07-23T23:59:16+09:00</lastmod>
   </url>
@@ -135,6 +130,11 @@
   <url>
     <loc>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4%EC%84%A0%EC%83%9D%EB%8B%98/</loc>
     <lastmod>2011-11-07T23:54:38+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://blog.jbear.co/post/%EB%A5%B4%EC%99%84%EB%8B%A4part2/</loc>
+    <lastmod>2011-11-07T23:54:32+09:00</lastmod>
   </url>
   
   <url>
@@ -328,7 +328,7 @@
   
   <url>
     <loc>http://blog.jbear.co/post/</loc>
-    <lastmod>2017-11-07T23:54:32+09:00</lastmod>
+    <lastmod>2017-07-23T23:59:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -400,7 +400,7 @@
   
   <url>
     <loc>http://blog.jbear.co/</loc>
-    <lastmod>2017-11-07T23:54:32+09:00</lastmod>
+    <lastmod>2017-07-23T23:59:16+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -436,7 +436,7 @@
   
   <url>
     <loc>http://blog.jbear.co/tags/%EA%B5%AD%EC%A0%9C%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90/</loc>
-    <lastmod>2017-11-07T23:54:32+09:00</lastmod>
+    <lastmod>2012-11-08T23:52:23+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -472,7 +472,7 @@
   
   <url>
     <loc>http://blog.jbear.co/tags/%EB%A5%B4%EC%99%84%EB%8B%A4/</loc>
-    <lastmod>2017-11-07T23:54:32+09:00</lastmod>
+    <lastmod>2012-01-27T23:54:50+09:00</lastmod>
     <priority>0</priority>
   </url>
   
