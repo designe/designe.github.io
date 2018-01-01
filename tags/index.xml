@@ -48,6 +48,15 @@
     </item>
     
     <item>
+      <title>2018년</title>
+      <link>http://blog.jbear.co/tags/2018%EB%85%84/</link>
+      <pubDate>Mon, 01 Jan 2018 23:59:16 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/tags/2018%EB%85%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>3d</title>
       <link>http://blog.jbear.co/tags/3d/</link>
       <pubDate>Sat, 21 Apr 2012 23:53:19 +0900</pubDate>
@@ -174,29 +183,11 @@
     </item>
     
     <item>
-      <title>Git</title>
-      <link>http://blog.jbear.co/tags/git/</link>
-      <pubDate>Sun, 23 Jul 2017 23:59:16 +0900</pubDate>
-      
-      <guid>http://blog.jbear.co/tags/git/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Github</title>
       <link>http://blog.jbear.co/tags/github/</link>
       <pubDate>Sun, 23 Jul 2017 23:59:16 +0900</pubDate>
       
       <guid>http://blog.jbear.co/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>http://blog.jbear.co/tags/hugo/</link>
-      <pubDate>Sun, 23 Jul 2017 23:59:16 +0900</pubDate>
-      
-      <guid>http://blog.jbear.co/tags/hugo/</guid>
       <description></description>
     </item>
     
@@ -248,7 +239,7 @@
     <item>
       <title>Newstart</title>
       <link>http://blog.jbear.co/tags/newstart/</link>
-      <pubDate>Sun, 01 Jan 2017 00:04:08 +0900</pubDate>
+      <pubDate>Sun, 23 Jul 2017 23:59:16 +0900</pubDate>
       
       <guid>http://blog.jbear.co/tags/newstart/</guid>
       <description></description>
@@ -435,6 +426,15 @@
     </item>
     
     <item>
+      <title>다짐</title>
+      <link>http://blog.jbear.co/tags/%EB%8B%A4%EC%A7%90/</link>
+      <pubDate>Mon, 01 Jan 2018 23:59:16 +0900</pubDate>
+      
+      <guid>http://blog.jbear.co/tags/%EB%8B%A4%EC%A7%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>댓글</title>
       <link>http://blog.jbear.co/tags/%EB%8C%93%EA%B8%80/</link>
       <pubDate>Tue, 07 Feb 2012 23:53:39 +0900</pubDate>
@@ -561,11 +561,11 @@
     </item>
     
     <item>
-      <title>새로시작</title>
-      <link>http://blog.jbear.co/tags/%EC%83%88%EB%A1%9C%EC%8B%9C%EC%9E%91/</link>
-      <pubDate>Sun, 23 Jul 2017 23:59:16 +0900</pubDate>
+      <title>새해</title>
+      <link>http://blog.jbear.co/tags/%EC%83%88%ED%95%B4/</link>
+      <pubDate>Mon, 01 Jan 2018 23:59:16 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/tags/%EC%83%88%EB%A1%9C%EC%8B%9C%EC%9E%91/</guid>
+      <guid>http://blog.jbear.co/tags/%EC%83%88%ED%95%B4/</guid>
       <description></description>
     </item>
     
