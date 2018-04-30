@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>선생님 on jbear&#39;s blog</title>
+    <title>선생님 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%EC%84%A0%EC%83%9D%EB%8B%98/</link>
-    <description>Recent content in 선생님 on jbear&#39;s blog</description>
+    <description>Recent content in 선생님 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Mon, 07 Nov 2011 23:54:38 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%EC%84%A0%EC%83%9D%EB%8B%98/index.xml" rel="self" type="application/rss+xml" />
@@ -13,12 +14,11 @@
     
     <item>
       <title>르완다에서는 관심 밖인 직업 : 선생님</title>
-      <link>http://blog.jbear.co/blog/%EB%A5%B4%EC%99%84%EB%8B%A4%EC%97%90%EC%84%9C%EB%8A%94-%EA%B4%80%EC%8B%AC-%EB%B0%96%EC%9D%B8-%EC%A7%81%EC%97%85--%EC%84%A0%EC%83%9D%EB%8B%98/</link>
+      <link>http://blog.jbear.co/post/%E1%84%85%E1%85%B3%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%83%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC%E1%84%82%E1%85%B5%E1%86%B7/</link>
       <pubDate>Mon, 07 Nov 2011 23:54:38 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EB%A5%B4%EC%99%84%EB%8B%A4%EC%97%90%EC%84%9C%EB%8A%94-%EA%B4%80%EC%8B%AC-%EB%B0%96%EC%9D%B8-%EC%A7%81%EC%97%85--%EC%84%A0%EC%83%9D%EB%8B%98/</guid>
-      <description>내가 현재 근무하고 있는 학교가 르완다의 국립교육대학교이다. 이름에서 느껴지겠지만 이 곳은 선생님을 양성하는 학교다. 물론 학생들이 다 선생님이 되고 싶어서 이 학교에 온 것 같지는 않다. National Exam이라는 한국으로 치자면 수능같은 시험에서 점수에 맞춰 온 것이다. 어느 날, 수업 도중에 한 학생에게 물었다. 졸업하면 바로 선생님되겠고나~ 물었더니, 대답은 선생님되기 싫단다. 한국에서는 이해하기 힘든 이야기일 수도 있겠다.
-물론 이런 개발도상국에서 &amp;ldquo;뭘 시켜주던 그저 감사합니다요~&amp;rdquo; 하고 넙죽받아서 일하는게 부러운 사람들도 있을 것이다. 그러나 4년제 대학을 졸업하는 학생들의 입장은 조금 다르다.</description>
+      <guid>http://blog.jbear.co/post/%E1%84%85%E1%85%B3%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%83%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%89%E1%85%A2%E1%86%BC%E1%84%82%E1%85%B5%E1%86%B7/</guid>
+      <description>내가 현재 근무하고 있는 학교가 르완다의 국립교육대학교이다. 이름에서 느껴지겠지만 이 곳은 선생님을 양성하는 학교다. 물론 학생들이 다 선생님이 되고 싶어서 이 학</description>
     </item>
     
   </channel>

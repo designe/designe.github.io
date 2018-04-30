@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Public on jbear&#39;s blog</title>
+    <title>Public on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/public/</link>
-    <description>Recent content in Public on jbear&#39;s blog</description>
+    <description>Recent content in Public on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Thu, 06 Dec 2012 23:51:46 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/public/index.xml" rel="self" type="application/rss+xml" />
@@ -13,12 +14,11 @@
     
     <item>
       <title>Democracy Prep Public School</title>
-      <link>http://blog.jbear.co/blog/democracy-prep-public-school/</link>
+      <link>http://blog.jbear.co/post/democracypreppublicschool/</link>
       <pubDate>Thu, 06 Dec 2012 23:51:46 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/democracy-prep-public-school/</guid>
-      <description>참 아름다운 비전을 이뤄가고 있는 학교. Democracy Prep public School 2006년에 뉴욕의 가장 못사는 지역인 할렘가에서 100명으로 시작한 학교가 지금은 뉴욕시로부터 투자받아 6개 학교로 성장하여 더 큰 빛을 발하고 있는 Democracy Prep Public school.
-이 학교의 특징은 한국으로부터 교육시스템을 가져와 적용했다는 점에 있다. 다른 학교보다 일찍 등교하고, 늦게 하교하는 것은 물론인데, 수업 방식만큼은 기존의 미국의 것을 따르고 있다. 한국과 미국 교육 시스템의 융합인 것이다. 이 학교의 학생들은 고등학생이 되면 제 2외국어로 한국어를 필수로 들어야 하며, 여기서 한국의 예절과 문화까지 배운다.</description>
+      <guid>http://blog.jbear.co/post/democracypreppublicschool/</guid>
+      <description>참 아름다운 비전을 이뤄가고 있는 학교. Democracy Prep public School 2006년에 뉴욕의 가장 못사는 지역인 할렘가에서 100명으로 시작한 학교가 지금은 뉴욕시로부터 투자받아 6개</description>
     </item>
     
   </channel>

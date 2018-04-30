@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>협력요원존폐여부 on jbear&#39;s blog</title>
+    <title>협력요원존폐여부 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90%EC%A1%B4%ED%8F%90%EC%97%AC%EB%B6%80/</link>
-    <description>Recent content in 협력요원존폐여부 on jbear&#39;s blog</description>
+    <description>Recent content in 협력요원존폐여부 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Thu, 08 Nov 2012 23:52:23 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90%EC%A1%B4%ED%8F%90%EC%97%AC%EB%B6%80/index.xml" rel="self" type="application/rss+xml" />
@@ -13,12 +14,11 @@
     
     <item>
       <title>국제협력요원 존폐 여부에 관하여</title>
-      <link>http://blog.jbear.co/blog/%EA%B5%AD%EC%A0%9C%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90-%EC%A1%B4%ED%8F%90-%EC%97%AC%EB%B6%80%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/</link>
+      <link>http://blog.jbear.co/post/%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%AF%E1%86%AB/</link>
       <pubDate>Thu, 08 Nov 2012 23:52:23 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EA%B5%AD%EC%A0%9C%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90-%EC%A1%B4%ED%8F%90-%EC%97%AC%EB%B6%80%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/</guid>
-      <description>대한민국에는 현역복무대상자들이 보충역으로 지원가능한 다양한 군대체복무제도가 있다. 대표적으로는 많은 사람들이 알고 있는 소위 &amp;lsquo;병역특례&amp;rsquo;라고 불리는 산업기능요원이나 전문연구요원이 있고, 공중보건의나 국제협력의, 공익법무관과 같은 전문인을 위한 대체복무도 있다. 박태환과 같은 운동선수가 올림픽같이 세계 규모의 대회에서 3위 이내에 입상한 경우에도 복무를 대체할 수 있는 예술체육요원이라는 것도 있다. 이 뿐만이 아니다. 외교통상부에서는 국제협력요원이라는 이름으로 개발도상국에서의 전문분야 봉사활동으로 군복무를 대체할 수 있는 제도가 있는데, 이 글에서 쓰고 싶은 요지가 바로 국제협력요원의 존폐여부이다.
-##국제협력요원, 왜 필요한가?</description>
+      <guid>http://blog.jbear.co/post/%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%AF%E1%86%AB/</guid>
+      <description>대한민국에는 현역복무대상자들이 보충역으로 지원가능한 다양한 군대체복무제도가 있다. 대표적으로는 많은 사람들이 알고 있는 소위 &amp;lsquo;병역특례&amp;r</description>
     </item>
     
   </channel>

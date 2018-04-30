@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>카카오톡 on jbear&#39;s blog</title>
+    <title>카카오톡 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1/</link>
-    <description>Recent content in 카카오톡 on jbear&#39;s blog</description>
+    <description>Recent content in 카카오톡 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Mon, 14 Jan 2013 23:50:35 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1/index.xml" rel="self" type="application/rss+xml" />
@@ -13,23 +14,20 @@
     
     <item>
       <title>카카오톡에 관해 썼던 견해 정리</title>
-      <link>http://blog.jbear.co/blog/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%97%90-%EA%B4%80%ED%95%B4-%EC%8D%BC%EB%8D%98-%EA%B2%AC%ED%95%B4-%EC%A0%95%EB%A6%AC/</link>
+      <link>http://blog.jbear.co/post/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9%E1%86%A8%E1%84%80%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A2/</link>
       <pubDate>Mon, 14 Jan 2013 23:50:35 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1%EC%97%90-%EA%B4%80%ED%95%B4-%EC%8D%BC%EB%8D%98-%EA%B2%AC%ED%95%B4-%EC%A0%95%EB%A6%AC/</guid>
-      <description>현재 카카오톡이 한국 모바일 플랫폼의 안드로이드화에 미치고 있는 영향에 대해 글을 쓰고 싶다. 통계 찾고 하는게 넘 귀찮아서 나중으로 보류해야겠다~
-페이스북에 정리했던 카카오톡 관련된 견해
-카카오 스토리를 보고..
-서비스를 이용해보는 것만으로도 많은 것을 배울 수 있다. 카카오스토리의 경우처럼 인터페이스가 사용자에게 직관적이지 않을 경우, 많은 사용자들을 조인시킬 수 있는 환경에도 불구하고, 이용률은 제로에 가까워질 수 있다는 사실. Path를 따라한 서비스지만, Fast Follower 전략을 시도할 때에는 적어도 First Mover의 단점을 보완하거나, 더 개선된 부분을 보여줘야 하는데, 억지로 차별성을 강조하려다 직관을 잃은 대표 케이스다.</description>
+      <guid>http://blog.jbear.co/post/%E1%84%8F%E1%85%A1%E1%84%8F%E1%85%A1%E1%84%8B%E1%85%A9%E1%84%90%E1%85%A9%E1%86%A8%E1%84%80%E1%85%A7%E1%86%AB%E1%84%92%E1%85%A2/</guid>
+      <description>현재 카카오톡이 한국 모바일 플랫폼의 안드로이드화에 미치고 있는 영향에 대해 글을 쓰고 싶다. 통계 찾고 하는게 넘 귀찮아서 나중으로 보류해야겠다~ 페이스북에 정리</description>
     </item>
     
     <item>
       <title>뜨거운감자 - 카카오톡 무료통화</title>
-      <link>http://blog.jbear.co/blog/%EB%9C%A8%EA%B1%B0%EC%9A%B4%EA%B0%90%EC%9E%90---%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%AC%B4%EB%A3%8C%ED%86%B5%ED%99%94/</link>
+      <link>http://blog.jbear.co/post/%E1%84%8F%E1%85%A1%E1%84%90%E1%85%A9%E1%86%A8%E1%84%86%E1%85%AE%E1%84%85%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA/</link>
       <pubDate>Thu, 07 Jun 2012 23:52:55 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EB%9C%A8%EA%B1%B0%EC%9A%B4%EA%B0%90%EC%9E%90---%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%86%A1-%EB%AC%B4%EB%A3%8C%ED%86%B5%ED%99%94/</guid>
-      <description>카카오톡이 한국에서도 무료통화 테스트를 실시하면서, 비로소 데이터 패킷을 이용한 통화가 국내에서도 상용화될 전망이다. 이미 인터넷 전화, 스카이프를 통해 많은 사람들이 VoIP의 경험을 가지고 있고, 먼 미래를 생각해보았을 때, 누구나 예측할 수 있는 상황이지만, 지금과 같이 기존 시장에 한방 먹일 수 있는 총의 방아쇠를 당길 수 있는 기업은 그리 많지 않다. 한국에서는 카카오톡이 바로 그 주인공이 아닌가 싶다. 지금 카카오톡의 무료통화기능이 뜨거운 감자인 이유는 바로 통신사들의 마지막 보루를 건들인데 있다. 이미 네이버나 다음, 네이트 같은 국내 메이저 포털들이 만든 앱들은 무료통화 기능을 제공했음에도 불구하고 상용화의 문턱에 들어서지 못했지만, 카카오톡은 그걸 가능케 할 탄탄한 유저베이스를 갖추었기 때문에 세상은 떠들썩한 것이다.</description>
+      <guid>http://blog.jbear.co/post/%E1%84%8F%E1%85%A1%E1%84%90%E1%85%A9%E1%86%A8%E1%84%86%E1%85%AE%E1%84%85%E1%85%AD%E1%84%90%E1%85%A9%E1%86%BC%E1%84%92%E1%85%AA/</guid>
+      <description>카카오톡이 한국에서도 무료통화 테스트를 실시하면서, 비로소 데이터 패킷을 이용한 통화가 국내에서도 상용화될 전망이다. 이미 인터넷 전화, 스카이프를 통해 많은</description>
     </item>
     
   </channel>

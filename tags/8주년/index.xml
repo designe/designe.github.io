@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>8주년 on jbear&#39;s blog</title>
+    <title>8주년 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/8%EC%A3%BC%EB%85%84/</link>
-    <description>Recent content in 8주년 on jbear&#39;s blog</description>
+    <description>Recent content in 8주년 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Sat, 11 Feb 2012 23:53:30 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/8%EC%A3%BC%EB%85%84/index.xml" rel="self" type="application/rss+xml" />
@@ -13,13 +14,11 @@
     
     <item>
       <title>Facebook이 선택한 길 IPO</title>
-      <link>http://blog.jbear.co/blog/facebook%EC%9D%B4-%EC%84%A0%ED%83%9D%ED%95%9C-%EA%B8%B8-ipo/</link>
+      <link>http://blog.jbear.co/post/facebookipo/</link>
       <pubDate>Sat, 11 Feb 2012 23:53:30 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/facebook%EC%9D%B4-%EC%84%A0%ED%83%9D%ED%95%9C-%EA%B8%B8-ipo/</guid>
-      <description>2012년 2월 1일, 페이스북 8주년이 되기 3일 전 이날은 페이스북이 IPO(Initial Public Offering) - 기업공개 신청(S-1 문서[유가증권신청서) 제출)으로 인해 세계의 관심을 집중적으로 받은 날이다. 기업공개가 무엇이길래 이리도 관심이 높은것일까? 포스트의 마지막에 바로 주변을 떠들썩하게 만든, 페이스북의 내부 정보가 공개된 S-1 문서를 첨부해두었다. 무려 198페이지에 달한다.
-이 문서는 요약하면 대략 이렇다.
-작년 말의 페이스북 DAU(Daily Active Users) 는 4억명을 넘고, MAU(Monthly active users)는 8억명이 넘는다. Like와 Comment는 하루에 27억에 달하고, 사진은 하루에 2억 5천만번 업로드된다.</description>
+      <guid>http://blog.jbear.co/post/facebookipo/</guid>
+      <description>2012년 2월 1일, 페이스북 8주년이 되기 3일 전 이날은 페이스북이 IPO(Initial Public Offering) - 기업공개 신청(S-1 문서[유가증권신청서) 제출)으로 인해 세계의 관심을 집</description>
     </item>
     
   </channel>

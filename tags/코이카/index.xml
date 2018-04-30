@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>코이카 on jbear&#39;s blog</title>
+    <title>코이카 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%EC%BD%94%EC%9D%B4%EC%B9%B4/</link>
-    <description>Recent content in 코이카 on jbear&#39;s blog</description>
+    <description>Recent content in 코이카 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Thu, 08 Nov 2012 23:52:23 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%EC%BD%94%EC%9D%B4%EC%B9%B4/index.xml" rel="self" type="application/rss+xml" />
@@ -13,32 +14,29 @@
     
     <item>
       <title>국제협력요원 존폐 여부에 관하여</title>
-      <link>http://blog.jbear.co/blog/%EA%B5%AD%EC%A0%9C%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90-%EC%A1%B4%ED%8F%90-%EC%97%AC%EB%B6%80%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/</link>
+      <link>http://blog.jbear.co/post/%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%AF%E1%86%AB/</link>
       <pubDate>Thu, 08 Nov 2012 23:52:23 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EA%B5%AD%EC%A0%9C%ED%98%91%EB%A0%A5%EC%9A%94%EC%9B%90-%EC%A1%B4%ED%8F%90-%EC%97%AC%EB%B6%80%EC%97%90-%EA%B4%80%ED%95%98%EC%97%AC/</guid>
-      <description>대한민국에는 현역복무대상자들이 보충역으로 지원가능한 다양한 군대체복무제도가 있다. 대표적으로는 많은 사람들이 알고 있는 소위 &amp;lsquo;병역특례&amp;rsquo;라고 불리는 산업기능요원이나 전문연구요원이 있고, 공중보건의나 국제협력의, 공익법무관과 같은 전문인을 위한 대체복무도 있다. 박태환과 같은 운동선수가 올림픽같이 세계 규모의 대회에서 3위 이내에 입상한 경우에도 복무를 대체할 수 있는 예술체육요원이라는 것도 있다. 이 뿐만이 아니다. 외교통상부에서는 국제협력요원이라는 이름으로 개발도상국에서의 전문분야 봉사활동으로 군복무를 대체할 수 있는 제도가 있는데, 이 글에서 쓰고 싶은 요지가 바로 국제협력요원의 존폐여부이다.
-##국제협력요원, 왜 필요한가?</description>
+      <guid>http://blog.jbear.co/post/%E1%84%80%E1%85%AE%E1%86%A8%E1%84%8C%E1%85%A6%E1%84%92%E1%85%A7%E1%86%B8%E1%84%85%E1%85%A7%E1%86%A8%E1%84%8B%E1%85%AD%E1%84%8B%E1%85%AF%E1%86%AB/</guid>
+      <description>대한민국에는 현역복무대상자들이 보충역으로 지원가능한 다양한 군대체복무제도가 있다. 대표적으로는 많은 사람들이 알고 있는 소위 &amp;lsquo;병역특례&amp;r</description>
     </item>
     
     <item>
       <title>코이카선임단원</title>
-      <link>http://blog.jbear.co/blog/%EC%BD%94%EC%9D%B4%EC%B9%B4%EC%84%A0%EC%9E%84%EB%8B%A8%EC%9B%90/</link>
+      <link>http://blog.jbear.co/post/%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AB/</link>
       <pubDate>Fri, 27 Jan 2012 23:54:50 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EC%BD%94%EC%9D%B4%EC%B9%B4%EC%84%A0%EC%9E%84%EB%8B%A8%EC%9B%90/</guid>
-      <description>아프리카 르완다에서 해외 봉사활동을 해나가면서 주변 지인들이 기술로 봉사한 경험담이 담긴 책이 두권이나 나왔다. 해외 봉사에 관심이 있는 분들에게 추천하고 싶은 책이다.
-낯선 땅에 꿈을 심다
-코이카 해외봉사단원으로 세상을 품고 돌아온 네 청춘의 이야기 김준우 지음 | 최승백 지음 | 오승민 지음 | 천성우 지음| 혜지원 펴냄 | 2012년 01월 한권은 KOICA(국제협력단) 국제협력봉사요원(나보다 1년 빠른 기수)들이 쓴 책이다. &amp;ldquo;낯선 땅에 꿈을 심다&amp;rdquo; 라는 제목으로 르완다, 튀니지, 스리랑카에서 해외봉사를 경험한 단원들이 썼다.</description>
+      <guid>http://blog.jbear.co/post/%E1%84%8F%E1%85%A9%E1%84%8B%E1%85%B5%E1%84%8F%E1%85%A1%E1%84%89%E1%85%A5%E1%86%AB%E1%84%8B%E1%85%B5%E1%86%B7%E1%84%83%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%AF%E1%86%AB/</guid>
+      <description>아프리카 르완다에서 해외 봉사활동을 해나가면서 주변 지인들이 기술로 봉사한 경험담이 담긴 책이 두권이나 나왔다. 해외 봉사에 관심이 있는 분들에게 추천하고 싶은 책</description>
     </item>
     
     <item>
       <title>르완다 1년이 남긴 IT 봉사 흔적들 part 1</title>
-      <link>http://blog.jbear.co/blog/%EB%A5%B4%EC%99%84%EB%8B%A4-1%EB%85%84%EC%9D%B4-%EB%82%A8%EA%B8%B4-it-%EB%B4%89%EC%82%AC-%ED%9D%94%EC%A0%81%EB%93%A4-part-1/</link>
+      <link>http://blog.jbear.co/post/%E1%84%85%E1%85%B3%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%83%E1%85%A1_1%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5_%E1%84%82%E1%85%A1%E1%86%B7%E1%84%80%E1%85%B5%E1%86%AB_it_%E1%84%87%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1_%E1%84%92%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%83%E1%85%B3%E1%86%AF_part_1/</link>
       <pubDate>Wed, 02 Nov 2011 06:09:37 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EB%A5%B4%EC%99%84%EB%8B%A4-1%EB%85%84%EC%9D%B4-%EB%82%A8%EA%B8%B4-it-%EB%B4%89%EC%82%AC-%ED%9D%94%EC%A0%81%EB%93%A4-part-1/</guid>
-      <description>르완다에 온지 벌써 1년 하고도 5개월이 지났다. 실로 꽤 긴 시간이 지났음에도 불구하고, 동아프리카 르완다 특유의 변함없는 춥지도, 덥지도 않은 이 무미건조한 날씨는 흘러가는 시간을 무색하게 만든다. 이렇게 오랜 기간동안 있으면서, 과거를 회상하기는 많이 했지만, 내가 이제껏 르완다에서 해왔던 일들에 대해 한번도 제대로 정리를 해본적이 없는거 같다. (코이카 현지평가회의를 했음에도 불구하고 - 코이카 봉사단원들은 현지평가회의때 이제껏 활동했던 봉사사례들을 공유하는 시간을 갖는다. 사실 그때는 왜 그랬는지 모르겠지만 자료 준비가 그렇게 귀찮을 수가 없었다.</description>
+      <guid>http://blog.jbear.co/post/%E1%84%85%E1%85%B3%E1%84%8B%E1%85%AA%E1%86%AB%E1%84%83%E1%85%A1_1%E1%84%82%E1%85%A7%E1%86%AB%E1%84%8B%E1%85%B5_%E1%84%82%E1%85%A1%E1%86%B7%E1%84%80%E1%85%B5%E1%86%AB_it_%E1%84%87%E1%85%A9%E1%86%BC%E1%84%89%E1%85%A1_%E1%84%92%E1%85%B3%E1%86%AB%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%83%E1%85%B3%E1%86%AF_part_1/</guid>
+      <description>르완다에 온지 벌써 1년 하고도 5개월이 지났다. 실로 꽤 긴 시간이 지났음에도 불구하고, 동아프리카 르완다 특유의 변함없는 춥지도, 덥지도 않은 이 무미건조한 날씨</description>
     </item>
     
   </channel>

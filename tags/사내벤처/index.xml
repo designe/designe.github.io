@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>사내벤처 on jbear&#39;s blog</title>
+    <title>사내벤처 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%EC%82%AC%EB%82%B4%EB%B2%A4%EC%B2%98/</link>
-    <description>Recent content in 사내벤처 on jbear&#39;s blog</description>
+    <description>Recent content in 사내벤처 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Tue, 01 Sep 2015 23:12:04 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%EC%82%AC%EB%82%B4%EB%B2%A4%EC%B2%98/index.xml" rel="self" type="application/rss+xml" />
@@ -13,16 +14,11 @@
     
     <item>
       <title>Creative Lab 본격적인 Start 150901</title>
-      <link>http://blog.jbear.co/blog/creative-lab-%EB%B3%B8%EA%B2%A9%EC%A0%81%EC%9D%B8-start-150901/</link>
+      <link>http://blog.jbear.co/post/creative_lab_%E1%84%87%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB_start_150901/</link>
       <pubDate>Tue, 01 Sep 2015 23:12:04 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/creative-lab-%EB%B3%B8%EA%B2%A9%EC%A0%81%EC%9D%B8-start-150901/</guid>
-      <description>직급이 사라지고
-자율출퇴근제보다도 더 자유로운 재량근로제가 시작된 첫 날.
-C-Lab의 시작은 정확히는 7월 1일이었지만 이제서야 진짜라는 느낌이 온다.
-재량근로제로써의 첫 출근은 아직 변화를 모르겠다. 출근을 해서 그런가
-귀한 경험이기 때문에 하루하루 생각과 느낌을 남기고 싶다.
-그럼 오늘부터 시작!</description>
+      <guid>http://blog.jbear.co/post/creative_lab_%E1%84%87%E1%85%A9%E1%86%AB%E1%84%80%E1%85%A7%E1%86%A8%E1%84%8C%E1%85%A5%E1%86%A8%E1%84%8B%E1%85%B5%E1%86%AB_start_150901/</guid>
+      <description>직급이 사라지고 자율출퇴근제보다도 더 자유로운 재량근로제가 시작된 첫 날. C-Lab의 시작은 정확히는 7월 1일이었지만 이제서야 진짜라는 느낌이 온다. 재량</description>
     </item>
     
   </channel>

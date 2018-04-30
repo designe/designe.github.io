@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>트위터 on jbear&#39;s blog</title>
+    <title>트위터 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%ED%8A%B8%EC%9C%84%ED%84%B0/</link>
-    <description>Recent content in 트위터 on jbear&#39;s blog</description>
+    <description>Recent content in 트위터 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Wed, 12 Dec 2012 23:51:13 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%ED%8A%B8%EC%9C%84%ED%84%B0/index.xml" rel="self" type="application/rss+xml" />
@@ -13,11 +14,11 @@
     
     <item>
       <title>SNS가 패션에 끼치는 영향</title>
-      <link>http://blog.jbear.co/blog/sns%EA%B0%80-%ED%8C%A8%EC%85%98%EC%97%90-%EB%81%BC%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5/</link>
+      <link>http://blog.jbear.co/post/sns%E1%84%91%E1%85%A2%E1%84%89%E1%85%A7%E1%86%AB/</link>
       <pubDate>Wed, 12 Dec 2012 23:51:13 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/sns%EA%B0%80-%ED%8C%A8%EC%85%98%EC%97%90-%EB%81%BC%EC%B9%98%EB%8A%94-%EC%98%81%ED%96%A5/</guid>
-      <description>소셜네트워크는 참 오랜 역사를 가진 서비스이다. 용어 자체는 페이스북을 영화화한 &amp;lsquo;소셜네트워크&amp;rsquo; 가 개봉한 이래로 자주 등장하게되었지만 아주 오래전부터 이미 우리는 이 기술을 써왔고, 또 이용해왔다. 한국으로 치자면 21세기가 되기도 전에 아이러브스쿨이나 세이클럽같은 사람과 사람을 연결하는 소셜서비스가 이미 있었다. 하지만 그때 당시의 서비스들이 과연 지금만큼의 파급력을 가지고 있었던가? 내가 쓴 글의 지인 또는 제3자에게 도달하는 비율이 급속도로 증가했던 시기가 구글로 대표되던 Web 2.0 시기가 가라앉을 때 즈음, 페이스북과 트위터가 바톤을 이어받았을 때 부터다.</description>
+      <guid>http://blog.jbear.co/post/sns%E1%84%91%E1%85%A2%E1%84%89%E1%85%A7%E1%86%AB/</guid>
+      <description>소셜네트워크는 참 오랜 역사를 가진 서비스이다. 용어 자체는 페이스북을 영화화한 &amp;lsquo;소셜네트워크&amp;rsquo; 가 개봉한 이래로 자주 등장하게되었</description>
     </item>
     
   </channel>

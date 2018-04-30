@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>이사 on jbear&#39;s blog</title>
+    <title>이사 on Jane - A super concise theme for Hugo</title>
     <link>http://blog.jbear.co/tags/%EC%9D%B4%EC%82%AC/</link>
-    <description>Recent content in 이사 on jbear&#39;s blog</description>
+    <description>Recent content in 이사 on Jane - A super concise theme for Hugo</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ko</language>
+    <language>en</language>
+    <copyright>Copyright jbear All right Reserved</copyright>
     <lastBuildDate>Wed, 02 Dec 2015 22:57:07 +0900</lastBuildDate>
     
 	<atom:link href="http://blog.jbear.co/tags/%EC%9D%B4%EC%82%AC/index.xml" rel="self" type="application/rss+xml" />
@@ -13,13 +14,11 @@
     
     <item>
       <title>시간이 참 빠르다</title>
-      <link>http://blog.jbear.co/blog/%EC%8B%9C%EA%B0%84%EC%9D%B4-%EC%B0%B8-%EB%B9%A0%EB%A5%B4%EB%8B%A4/</link>
+      <link>http://blog.jbear.co/post/%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5_%E1%84%8E%E1%85%A1%E1%86%B7_%E1%84%88%E1%85%A1%E1%84%85%E1%85%B3%E1%84%83%E1%85%A1/</link>
       <pubDate>Wed, 02 Dec 2015 22:57:07 +0900</pubDate>
       
-      <guid>http://blog.jbear.co/blog/%EC%8B%9C%EA%B0%84%EC%9D%B4-%EC%B0%B8-%EB%B9%A0%EB%A5%B4%EB%8B%A4/</guid>
-      <description>시간이 참 빠르다. 입사하기 전엔 Entrepreneurship이 임직원에게 가장 필요한 마음가짐이라고 생각했었는데 그때의 나는 참 세상을 몰랐던 것 같다. 회사와 나의 관계는 내가 생각했던 이상향과는 좀 달랐던 것 같다. 1년만에 참 많이 바꼈다. 난
-이제 2016년이다. 한치앞이 오리무중이라 답답한 마음 한가득이지만 이 시간마저도 즐겼으면 좋겠다.
-안녕! 내년에 보자!</description>
+      <guid>http://blog.jbear.co/post/%E1%84%89%E1%85%B5%E1%84%80%E1%85%A1%E1%86%AB%E1%84%8B%E1%85%B5_%E1%84%8E%E1%85%A1%E1%86%B7_%E1%84%88%E1%85%A1%E1%84%85%E1%85%B3%E1%84%83%E1%85%A1/</guid>
+      <description>시간이 참 빠르다. 입사하기 전엔 Entrepreneurship이 임직원에게 가장 필요한 마음가짐이라고 생각했었는데 그때의 나는 참 세상을 몰랐던 것 같다.</description>
     </item>
     
   </channel>
