@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jane - A super concise theme for Hugo</title>
+    <title>jbear&#39;s Blog</title>
     <link>http://blog.jbear.co/</link>
-    <description>Recent content on Jane - A super concise theme for Hugo</description>
+    <description>Recent content on jbear&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>Copyright jbear All right Reserved</copyright>
@@ -13,7 +13,7 @@
     
     
     <item>
-      <title>Profile / Ji-woong Choi</title>
+      <title>Ji-woong Choi</title>
       <link>http://blog.jbear.co/profile/</link>
       <pubDate>Sun, 11 Mar 2018 23:55:05 +0900</pubDate>
       
@@ -31,23 +31,20 @@ facebook : &lt;a href=&#34;https://facebook.com/hello.designe&#34;&gt;https://fa
 &lt;h4 id=&#34;경력-work-experience&#34;&gt;경력 / Work Experience&lt;/h4&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;&lt;strong&gt;2014-Current&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;2014 - Now&lt;/strong&gt;&lt;br /&gt;
 Samsung Electronics&lt;br /&gt;
-&lt;strong&gt;2016-NOW&lt;/strong&gt;&lt;br /&gt;
-Samsung Research / AI Center / Engineer&lt;br /&gt;
-2015&lt;br /&gt;
-DMC R&amp;amp;D Center / Creativity Lab / Engineer&lt;br /&gt;
-2014&lt;br /&gt;
-DMC R&amp;amp;D Center / Medical System Lab / Engineer&lt;/p&gt;
+Samsung Research / AI Center&lt;br /&gt;
+~ 2015 DMC R&amp;amp;D Center / Creativity Lab&lt;br /&gt;
+~ 2014 DMC R&amp;amp;D Center / Medical System Lab&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2010-2012&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;2010 - 2012&lt;/strong&gt;&lt;br /&gt;
 KOICA(Korea International Cooperation Agency) /&lt;br /&gt;
 Cooperation Agent / For Rwanda&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2009-2010 ~ 2013-2014&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;2009 - 2010 ~ 2013 - 2014&lt;/strong&gt;&lt;br /&gt;
 Samsung Software Membership / Software Engineer / 19.1 ~ 23.1&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;2008-2009&lt;/strong&gt;&lt;br /&gt;
+&lt;p&gt;&lt;strong&gt;2008 - 2009&lt;/strong&gt;&lt;br /&gt;
 Microsoft Student Partners / Technical MSP / 2nd&lt;/p&gt;
 &lt;/blockquote&gt;
 
@@ -122,7 +119,7 @@ AI 한 분야만큼은 꼭.
     </item>
     
     <item>
-      <title>블로그 소개</title>
+      <title>About Blog</title>
       <link>http://blog.jbear.co/about/</link>
       <pubDate>Sun, 23 Jul 2017 23:55:05 +0900</pubDate>
       
@@ -130,10 +127,8 @@ AI 한 분야만큼은 꼭.
       
         <description>&lt;p&gt;&lt;em&gt;from 2014 - 2017&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;em&gt;소 개&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;평범하게
-글쓰기와 읽기를 좋아하는
+&lt;p&gt;평범하게&lt;br /&gt;
+글쓰기와 읽기를 좋아하는&lt;br /&gt;
 새로운 경험을 즐기고 변화를 꿈꾸는 개발자 로그&lt;/p&gt;
 
 &lt;hr /&gt;
@@ -148,9 +143,9 @@ My struggle for recovery is going to be continuous.&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;From 2010 to 2012,&lt;/em&gt;&lt;/p&gt;
 
-&lt;p&gt;This blog want to share about
-1) The fact that The proceeding way of developing country such as Rwanda is in need of the people who are well acquainted with Information Technology.
-2)  The expectation that the best things can be created by developing country.
+&lt;p&gt;This blog want to share about&lt;br /&gt;
+1) The fact that The proceeding way of developing country such as Rwanda is in need of the people who are well acquainted with Information Technology.&lt;br /&gt;
+2)  The expectation that the best things can be created by developing country.&lt;br /&gt;
 3) The truth that though the best technology is made by developed country, it is not just for them.&lt;/p&gt;
 
 &lt;p&gt;There is one emphasize thing more I want to tell you,
